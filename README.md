@@ -2,7 +2,10 @@
 
 # ITU Electronics and Communications Engineering Student
 
-#### Technical Skills: Python, C++, MATLAB, ANSYS HFSS, 
+### Skills
+- Programming Languages: Python, C, C++, MATLAB
+- Software Tools:  ANSYS HFSS, CST, MS Office
+- Languages: Fluent English and Turkish, Beginner Spanish
 
 ## Education			        		
 - B.S., Electronics and Communications Engineering | Istanbul Technical University (June 2025)
