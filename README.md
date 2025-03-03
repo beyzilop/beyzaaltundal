@@ -25,13 +25,11 @@ Welcome to my project portfolio! Here you will find an overview of my projects, 
 
 ## Projects
 
-### 📡 Tapered Slot Antenna Design for Ground Penetrating Radar Applications
+### 📡 [Tapered Slot Antenna Design for Ground Penetrating Radar Applications](gpr.pdf)
 : This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements.
 
 - **Technologies:** ANSYS HFSS
 - ![Tapered Slot Antenna](files/gpr.png)
-- ![Tapered Slot Antenna](files/gpr2.png)
-- ![Tapered Slot Antenna](files/gpr3.png)
 
 ---
 
@@ -49,7 +47,6 @@ This project introduces a sensing system based on Split Ring Resonators (SRR) fo
 
 - **Technologies:** ANSYS HFSS
 - ![SRR Sensor](files/srr.png)
-- ![SRR Sensor](files/srr2.png)
 
 ---
 
@@ -57,7 +54,6 @@ This project introduces a sensing system based on Split Ring Resonators (SRR) fo
 This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements
 
 - **Technologies:** ANSYS HFSS
-- ![Dielectric Resonator Antenna](files/dra.png)
 - ![Dielectric Resonator Antenna](files/dra.png)
 
 ---
