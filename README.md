@@ -2,8 +2,8 @@
 # ITU Electronics and Communications Engineering Student
 
 ### Skills
-- Programming Languages: Python, C, C++, MATLAB
-- Software Tools:  ANSYS HFSS, CST, MS Office
+- Programming Languages: Python, C, C++, MATLAB, java
+- Software Tools:  ANSYS HFSS, CST, MS Office, tensorflow
 - Languages: Fluent English and Turkish, Beginner Spanish
 
 ## Education			        		
@@ -25,7 +25,7 @@ Welcome to my project portfolio! Here you will find an overview of my projects, 
 
 ## Projects
 
-### 📡 [Tapered Slot Antenna Design for Ground Penetrating Radar Applications](gpr.pdf)
+### 📡 [Tapered Slot Antenna Design for Ground Penetrating Radar Applications](files/gpr.pdf)
 : This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements.
 
 - **Technologies:** ANSYS HFSS
@@ -33,7 +33,7 @@ Welcome to my project portfolio! Here you will find an overview of my projects, 
 
 ---
 
-### 🎵 Generative Music AI using LSTM Networks
+### 🎵 [Generative Music AI using LSTM Networks](files/AI.pdf)
 An AI system that composes original music using LSTM neural networks trained on MIDI datasets. By learning patterns in melodies and harmonies, the model generates creative musical sequences.
 
 - **Technologies:** Matlab, MIDI Toolbox
@@ -50,7 +50,7 @@ This project introduces a sensing system based on Split Ring Resonators (SRR) fo
 
 ---
 
-### 📶 Dielectric Resonator Antenna Design and Simulations
+### 📶 [Dielectric Resonator Antenna Design and Simulations](files/dra.pdf)
 This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements
 
 - **Technologies:** ANSYS HFSS
@@ -75,12 +75,7 @@ You can also check out my GitHub profile for more projects: [beyzilop](https://g
 
 
 
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-
-Useddy.
-
-
 - [YouTube](https://www.youtube.com/@BeyzaAltundal)
+- [Linkedin](https://www.linkedin.com/in/beyza-a-005081171/)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
