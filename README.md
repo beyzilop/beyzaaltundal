@@ -17,8 +17,62 @@
 -Supervisor: Assoc. Prof. Sema Dumanlı-Oktar
 
 
+# Gülsüm Beyza Altundal - Portfolio
+
+Welcome to my project portfolio! Here you will find an overview of my projects, including descriptions and technologies used.
+
+---
+
 ## Projects
-### Music generation AI using deep learning
+
+### 📡 Tapered Slot Antenna Design for Ground Penetrating Radar Applications
+: This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements.
+
+- **Technologies:** ANSYS HFSS
+- ![Tapered Slot Antenna](images/tapered-slot-antenna-placeholder.png)
+
+---
+
+### 🎵 Generative Music AI using LSTM Networks
+An AI system that composes original music using LSTM neural networks trained on MIDI datasets. By learning patterns in melodies and harmonies, the model generates creative musical sequences.
+
+- **Technologies:** Matlab, MIDI Toolbox
+- [View Project on GitHub](https://github.com/beyzilop/Music-AI)
+- ![Generative Music AI](images/generative-music-ai-placeholder.png)
+
+---
+
+### 🌱 Split Ring Resonator (SRR)-Based Sensor for Plant Growth Estimation
+This project introduces a sensing system based on Split Ring Resonators (SRR) for contactless estimation of plant growth. By tracking resonance frequency shifts caused by changes in plant biomass and water content, the system offers a non-invasive alternative to traditional plant monitoring methods
+
+- **Technologies:** ANSYS HFSS
+- ![SRR Sensor](images/srr-sensor-placeholder.png)
+
+---
+
+### 📶 Dielectric Resonator Antenna Design and Simulations
+This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements
+
+- **Technologies:** ANSYS HFSS
+- ![Dielectric Resonator Antenna](images/dielectric-resonator-antenna-placeholder.png)
+
+---
+
+## About Me
+
+Merhaba, uzay teknolojilerine büyük bir ilgi duyuyorum ve özellikle anten tasarımı alanında deneyim kazandım.
+Aldığım sinyal işleme, analog ve dijital haberleşme, elektronik ve nesne temelli programlama dersleri sayesinde bu alanda gerekli temel donanıma sahibim.
+
+Ferngani’de yaz stajı yaparak hem teorik bilgilerimi pekiştirmek hem de uzay teknolojileri alanında kendimi geliştirmek istiyorum.
+
+İlginiz ve değerlendirmeniz için teşekkür ederim.
+
+---
+
+## Contact
+
+You can also check out my GitHub profile for more projects: [beyzilop](https://github.com/beyzilop)
+
 
 
 
