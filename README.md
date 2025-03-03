@@ -60,12 +60,7 @@ This project focused on the design and analysis of a Dielectric Resonator Antenn
 
 ## About Me
 
-Merhaba, uzay teknolojilerine büyük bir ilgi duyuyorum ve özellikle anten tasarımı alanında deneyim kazandım.
-Aldığım sinyal işleme, analog ve dijital haberleşme, elektronik ve nesne temelli programlama dersleri sayesinde bu alanda gerekli temel donanıma sahibim.
-
-Ferngani’de yaz stajı yaparak hem teorik bilgilerimi pekiştirmek hem de uzay teknolojileri alanında kendimi geliştirmek istiyorum.
-
-İlginiz ve değerlendirmeniz için teşekkür ederim.
+I studied Electronics and Communication Engineering, which gave me a strong foundation in technology, systems, and problem-solving. However, during my studies, I discovered a growing passion for coding and software development. That’s why Commencis stands out to me — as a company at the forefront of digital transformation, it offers the ideal environment for me to develop my coding skills, learn from experienced professionals, and contribute to cutting-edge projects. I’m excited to take this step and transition into the software field, combining my analytical background with new programming skills to build my career in technology..
 
 ---
 
