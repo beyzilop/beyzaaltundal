@@ -29,7 +29,9 @@ Welcome to my project portfolio! Here you will find an overview of my projects, 
 : This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements.
 
 - **Technologies:** ANSYS HFSS
-- ![Tapered Slot Antenna](images/tapered-slot-antenna-placeholder.png)
+- ![Tapered Slot Antenna](files/gpr.png)
+- ![Tapered Slot Antenna](files/gpr2.png)
+- ![Tapered Slot Antenna](files/gpr3.png)
 
 ---
 
@@ -38,7 +40,7 @@ An AI system that composes original music using LSTM neural networks trained on 
 
 - **Technologies:** Matlab, MIDI Toolbox
 - [View Project on GitHub](https://github.com/beyzilop/Music-AI)
-- ![Generative Music AI](images/generative-music-ai-placeholder.png)
+
 
 ---
 
@@ -46,7 +48,8 @@ An AI system that composes original music using LSTM neural networks trained on 
 This project introduces a sensing system based on Split Ring Resonators (SRR) for contactless estimation of plant growth. By tracking resonance frequency shifts caused by changes in plant biomass and water content, the system offers a non-invasive alternative to traditional plant monitoring methods
 
 - **Technologies:** ANSYS HFSS
-- ![SRR Sensor](images/srr-sensor-placeholder.png)
+- ![SRR Sensor](files/srr.png)
+- ![SRR Sensor](files/srr2.png)
 
 ---
 
@@ -54,7 +57,8 @@ This project introduces a sensing system based on Split Ring Resonators (SRR) fo
 This project focused on the design and analysis of a Dielectric Resonator Antenna (DRA), which offers superior efficiency and bandwidth performance for modern wireless applications. Using ANSYS HFSS, the DRA geometry, material properties, and feed mechanism were optimized to meet target frequency and gain requirements
 
 - **Technologies:** ANSYS HFSS
-- ![Dielectric Resonator Antenna](images/dielectric-resonator-antenna-placeholder.png)
+- ![Dielectric Resonator Antenna](files/dra.png)
+- ![Dielectric Resonator Antenna](files/dra.png)
 
 ---
 
